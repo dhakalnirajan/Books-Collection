@@ -8,6 +8,8 @@ These are the collection of my books I read and my suggestions to others. There 
 
 You can read these books on your mobile phone using [Moon+ Reader Pro App.](./Moon+%20Reader%20Pro%20v8.6%20build%20806004.apk) Click on the link to download the APK file and then install it on your phone. This App doesn't work on iOS devices and PC. If you want to read them on your PC, please install [Freda epub reader](https://apps.microsoft.com/detail/9wzdncrfj43b?hl=en-US&gl=US) from Microsoft Store. It is free and works perfectly.
 
+Most of the file formats are in `.epub` and `.mobi` and very few in PDF. Therefore, the applications mentioned above are the best to read these books.
+
 ---
 
 # Books

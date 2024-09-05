@@ -396,6 +396,9 @@ H. सेतो धर्ती - अमर न्यौपाने
 129. The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz
 130. Civilized To Death: The Price of Progress by Christopher Ryan
 131. In Pursuit of the Unknown: 17 Equations That Changed the World by Ian Stewart
-132. The Black Hole War, Leonard Susskind
+132. The Black Hole War by Leonard Susskind
+133. The Untouchables by Eliot Ness
+134. Sophie's World by Jostein Gaarder
+135. दूर आसमान में by Neeraj Pandey
 
 </div>

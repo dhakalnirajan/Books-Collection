@@ -199,20 +199,20 @@ H. सेतो धर्ती - अमर न्यौपाने
 26. The Laws of Human Nature by Robert Greene
 27. The 48 Laws of Power by Robert Greene
 28. The Hitchhiker's Guide to the Galaxy by Douglas Adams
-29. **The Restaurant at the End of the Universe** by Douglas Adams
-30. **Life, the Universe and Everything** by Douglas Adams
-31. **So Long, and Thanks for All the Fish** by Douglas Adams
-32. **Mostly Harmless** by Douglas Adams
-33. **The Salmon of Doubt** by Douglas Adams
-34. **Partner In Crime** by Agatha Christie
-35. **How to Win Friends and Influence People** by Dale Carnegie
-36. **God is Not Great** by Christopher Hitchens
-37. **God Created the Integers** by Stephen Hawking
-38. **On The Shoulders of Giants** by Stephen Hawking
-39. **The Great Gatsby** by F. Scott Fitzgerald
-40. **Forces of Nature** by Brian Cox
-41. **The Quantum Universe** by Brian Cox
-42. **The Infinite Monkey Cage** by Brian Cox
+29. The Restaurant at the End of the Universe by Douglas Adams
+30. Life, the Universe and Everything by Douglas Adams
+31. So Long, and Thanks for All the Fish by Douglas Adams
+32. Mostly Harmless by Douglas Adams
+33. The Salmon of Doubt by Douglas Adams
+34. Partner In Crime by Agatha Christie
+35. How To Win Friends and Influence People by Dale Carnegie
+36. God is Not Great by Christopher Hitchens
+37. God Created the Integers by Stephen Hawking
+38. On The Shoulders of Giants by Stephen Hawking
+39. The Great Gatsby by F. Scott Fitzgerald
+40. Forces of Nature by Brian Cox
+41. The Quantum Universe by Brian Cox
+42. The Infinite Monkey Cage by Brian Cox
 
 **Douglas Adams' The Hitchhiker's Guide To The Galaxy Series**:
 

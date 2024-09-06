@@ -14,32 +14,40 @@ Most of the file formats are in `.epub` and `.mobi` and very few in `.pdf`. Ther
 
 # Books
 
-### Fiction
+## Fiction
 
-The Three Body Problem Trilogy (Series: Remembrance of Earth's Past) by Liu Cixin
+### A. The Three Body Problem Trilogy (Series: Remembrance of Earth's Past) by Liu Cixin
 
-- [The Three-Body Problem](./The%20Three-Body%20Problem%20by%20Liu%20Cixin.epub)
-- [The Dark Forest](./The%20Dark%20Forest%20by%20Cixin%20Liu.epub)   (The Best of the Trilogy)
-- [Death's End](./Liu,%20Cixin%20-%20Death's%20End%20(The%20Three-Body%20Problem).mobi)
+- [The Three-Body Problem](./Fiction/The%20Three-Body%20Problem%20by%20Liu%20Cixin.epub)
+- [The Dark Forest](./Fiction/The%20Dark%20Forest%20by%20Cixin%20Liu.epub)   (The Best of the Trilogy)
+- [Death's End](./Fiction/Liu,%20Cixin%20-%20Death's%20End%20(The%20Three-Body%20Problem).mobi)
 
-- [Ball Lightning](./Ball%20Lightning%20by%20Liu%20Cixin.epub)
-- [The Wandering Earth](./The%20Wandering%20Earth%20by%20Liu%20Cixin.epub)  (Short Stories)
+- [Ball Lightning](./Fiction/Ball%20Lightning%20by%20Liu%20Cixin.epub)
+- [The Wandering Earth](./Fiction/The%20Wandering%20Earth%20by%20Liu%20Cixin.epub)  (Short Stories)
 
-- [The Redemption of Time](./The%20Redemption%20of%20Time.epub)  (Fan Fiction)
+- [The Redemption of Time](./Fiction/The%20Redemption%20of%20Time.epub)  (Fan Fiction)
+
+### B. The H.G. Wells Trilogy and Collection
+
+- [The Time Machine](./Fiction/The%20Time%20Machine%20by%20HG%20Wells.epub)
+- [The War of the Worlds](./Fiction/The%20War%20of%20the%20Worlds%20by%20HG%20Wells.epub)
+- [The Island of Doctor Moreau](./Fiction/The%20Island%20of%20Doctor%20Moreau%20by%20HG%20Wells.epub)
+- [The Invisible Man](./Fiction/The%20Invisible%20Man%20(Illustrated)%20by%20HG%20Wells.pdf)
+- [The Time Machine and The Invisible Man](./Fiction/The%20Time%20Machine%20and%20The%20Invisible%20Man%20by%20HG%20Wells.epub)
 
 ---
 
-### Non-Fiction
+## Non-Fiction
 
 <div>
 
 ### 1. Books By Matt Ridley
 
-A. [The Rational Optimist by Matt Ridley](./Matt%20Ridley%20-%20The%20Rational%20Optimist.epub)
+A. [The Rational Optimist by Matt Ridley](./nonfiction/Matt%20Ridley%20-%20The%20Rational%20Optimist.epub)
 
-B. [The Evolution of Everything: How New Ideas Emerge by Matt Ridley](./Matt%20Ridley%20-%20The%20Evolution%20of%20Everything%20How%20New%20Ideas%20Emerge.epub)
+B. [The Evolution of Everything: How New Ideas Emerge by Matt Ridley](./nonfiction/biology/Matt%20Ridley%20-%20The%20Evolution%20of%20Everything%20How%20New%20Ideas%20Emerge.epub)
 
-C. [Genome: The Autobiography of a Species in 23 Chapters by Matt Ridley](./Genome%20The%20Autobiography%20of%20a%20Species%20in%2023%20Chapters%20Matt%20Ridley.epub)
+C. [Genome: The Autobiography of a Species in 23 Chapters by Matt Ridley](./nonfiction/biology/Genome%20The%20Autobiography%20of%20a%20Species%20in%2023%20Chapters%20Matt%20Ridley.epub)
 
 </div>
 
@@ -47,13 +55,15 @@ C. [Genome: The Autobiography of a Species in 23 Chapters by Matt Ridley](./Geno
 
 ### 2. Books By Yuval Noah Harari
 
-A. [Sapiens: A Brief History of Humankind by Yuval Noah Harari](./Sapiens%20A%20Brief%20History%20of%20Humankind%20by%20Yuval%20Noah%20Harari.mobi)
+A. [Sapiens: A Brief History of Humankind by Yuval Noah Harari](./nonfiction/Sapiens%20A%20Brief%20History%20of%20Humankind%20by%20Yuval%20Noah%20Harari.mobi)
 
-B. [Homo Deus: A Brief History of Tomorrow by Yuval Noah Harari](./Homo%20Deus%20%20A%20Brief%20History%20of%20Tomorrow%20by%20Yuval%20Noah%20Harari.mobi)
+B. [Homo Deus: A Brief History of Tomorrow by Yuval Noah Harari](./nonfiction/Homo%20Deus%20%20A%20Brief%20History%20of%20Tomorrow%20by%20Yuval%20Noah%20Harari.mobi)
 
-C. [21 Lessons For 21st Century by Yuval Noah Harari](./21%20Lessons%20for%20the%2021st%20Century%20by%20Yuval%20Noah%20Harari.mobi)
+C. [21 Lessons For 21st Century by Yuval Noah Harari](./nonfiction/21%20Lessons%20for%20the%2021st%20Century%20by%20Yuval%20Noah%20Harari.mobi)
 
-D. [Nexus: A Brief History of Information Networks from the Stone Age to AI](./Nexus%20by%20Yuval%20Noah%20Harari.epub)
+D. [Unstoppable Us: Volume 1](./nonfiction/Unstoppable%20Us%20Volume%201%20How%20Humans%20Took%20Over%20the%20World%20by%20Yuval%20Noah%20Harari.epub)
+
+E. [Nexus: A Brief History of Information Networks from the Stone Age to AI](./nonfiction/Nexus%20by%20Yuval%20Noah%20Harari.epub)
 
 </div>
 
@@ -61,13 +71,13 @@ D. [Nexus: A Brief History of Information Networks from the Stone Age to AI](./N
 
 ### 3. Books By/About Galileo Galilei
 
-A. [Dialogue Concerning Two Chief World Systems](./Dialogue%20Concerning%20Two%20Chief%20World%20Systems%20-%20Galileo%20Galilei.pdf)
+A. [Dialogue Concerning Two Chief World Systems](./nonfiction/physics/Dialogue%20Concerning%20Two%20Chief%20World%20Systems%20-%20Galileo%20Galilei.pdf)
 
-B. [Dialogue Concerning Two New Sciences](./Dialogues%20Concerning%20Two%20New%20Sciences.pdf)
+B. [Dialogue Concerning Two New Sciences](./nonfiction/physics/Dialogues%20Concerning%20Two%20New%20Sciences.pdf)
 
-C. [Galileo Galilei: A Life From Beginning To End](./Galileo%20Galilei%20A%20Life%20From%20Beginning%20to%20End.mobi)
+C. [Galileo Galilei: A Life From Beginning To End](./nonfiction/physics/Galileo%20Galilei%20A%20Life%20From%20Beginning%20to%20End.mobi)
 
-D. [The Essential Galileo](./The%20Essential%20Galileo%20by%20Maurice%20A.%20Finocchiaro.epub)
+D. [The Essential Galileo](./nonfiction/physics/The%20Essential%20Galileo%20by%20Maurice%20A.%20Finocchiaro.epub)
 
 </div>
 
@@ -75,15 +85,15 @@ D. [The Essential Galileo](./The%20Essential%20Galileo%20by%20Maurice%20A.%20Fin
 
 ### 4. Books By Carl Sagan
 
-A. [Cosmos](./Cosmos%20by%20Carl%20Sagan.epub)
+A. [Cosmos](./nonfiction/Cosmos%20by%20Carl%20Sagan.epub)
 
-B. [Pale Blue Dot](./Pale%20Blue%20Dot%20by%20Carl%20Sagan.epub)
+B. [Pale Blue Dot](./nonfiction/Pale%20Blue%20Dot%20by%20Carl%20Sagan.epub)
 
-C. [The Demon-Haunted World](./The%20Demon-Haunted%20World%20Science%20as%20a%20Candle%20in%20the%20Dark%20by%20Carl%20Sagan.epub)
+C. [The Demon-Haunted World](./nonfiction/The%20Demon-Haunted%20World%20Science%20as%20a%20Candle%20in%20the%20Dark%20by%20Carl%20Sagan.epub)
 
-D. [Shadows of Forgotten Ancestors](./Shadows%20of%20Forgotten%20Ancestors%20by%20Carl%20Sagan%20and%20Ann%20Druyan.epub)
+D. [Shadows of Forgotten Ancestors](./nonfiction/biology/Shadows%20of%20Forgotten%20Ancestors%20by%20Carl%20Sagan%20and%20Ann%20Druyan.epub)
 
-E. [The Dragons of Eden - Speculation on the Evolution of Human Intelligence](./The%20Dragons%20of%20Eden%20-%20Speculations%20on%20the%20Evolution%20of%20Human%20Intelligence%20Carl%20Sagan.epub)
+E. [The Dragons of Eden - Speculation on the Evolution of Human Intelligence](./nonfiction/biology/The%20Dragons%20of%20Eden%20-%20Speculations%20on%20the%20Evolution%20of%20Human%20Intelligence%20Carl%20Sagan.epub)
 
 </div>
 
@@ -91,13 +101,19 @@ E. [The Dragons of Eden - Speculation on the Evolution of Human Intelligence](./
 
 ### 5. Books By Richard Dawkins
 
-A. [The Selfish Gene](./The%20Selfish%20Gene%20by%20Richard%20Dawkins.epub)
+A. [The Selfish Gene](./nonfiction/biology/The%20Selfish%20Gene%20by%20Richard%20Dawkins.epub)
 
-B. [The Blind Watchmaker](./The%20Blind%20Watchmaker%20by%20Richard%20Dawkins.epub)
+B. [The Blind Watchmaker](./nonfiction/biology/The%20Blind%20Watchmaker%20by%20Richard%20Dawkins.epub)
 
-C. [The Ancestor's Tale](./The%20Ancestor's%20Tale%20by%20Richard%20Dawkins.mobi)
+C. [The Ancestor's Tale](./nonfiction/biology/The%20Ancestor's%20Tale%20by%20Richard%20Dawkins.mobi)
 
-D. [The Greatest Show on Earth](./The%20Greatest%20Show%20on%20Earth%20by%20Richard%20Dawkins.mobi)
+D. [The Greatest Show on Earth](./nonfiction/biology/The%20Greatest%20Show%20on%20Earth%20by%20Richard%20Dawkins.mobi)
+
+### Books that Mentions Richard Dawkins/Sam Harris
+
+A. [The Four Horsemen: The Conversation That Sparked an Atheist Revolution](./nonfiction/The%20Four%20Horsemen%20The%20Conversation%20That%20Sparked%20an%20Atheist%20Revolution%20by%20Richard%20Dawkins%20Sam%20Harris%20Daniel%20C.%20Dennett%20Christopher%20Hitchens.epub)
+
+B. [The Moral Landscape: How Science Can Determine Human Values by Sam Harris](./nonfiction/The%20Moral%20Landscape%20by%20Sam%20Harris.epub)
 
 </div>
 
@@ -105,9 +121,11 @@ D. [The Greatest Show on Earth](./The%20Greatest%20Show%20on%20Earth%20by%20Rich
 
 ### 6. Books by Siddhartha Mukherjee
 
-A. [The Song of the Cell](./Siddhartha%20Mukherjee%20-%20The%20Song%20of%20the%20Cell%20(2022).epub)
+A. [The Song of the Cell](./nonfiction/biology/The%20Song%20of%20the%20Cell%20by%20Siddhartha%20Mukherjee.epub)
 
-B. [The Gene: An Intimate History](./The%20Gene%20An%20Intimate%20History%20by%20Siddhartha%20Mukherjee.epub)
+B. [The Gene: An Intimate History](./nonfiction/biology/The%20Gene%20An%20Intimate%20History%20by%20Siddhartha%20Mukherjee.epub)
+
+C. [The Emperor of All Maladies- A Biography of Cancer](./nonfiction/biology/The%20Emperor%20of%20All%20Maladies%20-%20A%20Biography%20of%20Cancer%20by%20Siddhartha%20Mukherjee.epub)
 
 </div>
 
@@ -115,9 +133,9 @@ B. [The Gene: An Intimate History](./The%20Gene%20An%20Intimate%20History%20by%2
 
 ### 7. Books by Carlo Rovelli
 
-A. [The Order of Time](./The%20Order%20of%20Time%20by%20Carlo%20Rovelli.epub)
+A. [The Order of Time](./nonfiction/physics/The%20Order%20of%20Time%20by%20Carlo%20Rovelli.epub)
 
-B. [Seven Brief Lessons on Physics](./Seven%20Brief%20Lessons%20on%20Physics%20by%20Carlo%20Rovelli.epub)
+B. [Seven Brief Lessons on Physics](./nonfiction/physics/Seven%20Brief%20Lessons%20on%20Physics%20by%20Carlo%20Rovelli.epub)
 
 </div>
 
@@ -125,9 +143,9 @@ B. [Seven Brief Lessons on Physics](./Seven%20Brief%20Lessons%20on%20Physics%20b
 
 ### 8. Books By Friedrich Nietzsche
 
-A. [Beyond Good and Evil](./Beyond%20Good%20and%20Evil%20Friedrich%20Nietzsche.pdf)
+A. [Beyond Good and Evil](./nonfiction/Beyond%20Good%20and%20Evil%20Friedrich%20Nietzsche.pdf)
 
-B. [The Gay Science](./The%20Gay%20Science%20Friedrich%20Nietzsche.pdf)
+B. [The Gay Science](./nonfiction/The%20Gay%20Science%20Friedrich%20Nietzsche.pdf)
 
 C. ***Thus Spoke Zarathustra***   <div style="font-size: 14px; color: #afa;">(This is the most popular book of Nietzsche from where "God is Dead" quote comes. I will upload this book soon.)</div>
 
@@ -139,9 +157,9 @@ D. The Birth of Tragedy
 
 ### 9. Books on Black Holes
 
-A. [Black Holes by Brian Cox and Jeff Forshaw](./Black%20Holes%20-%20Brian%20Cox.pdf)
+A. [Black Holes by Brian Cox and Jeff Forshaw](./nonfiction/physics/Black%20Holes%20-%20Brian%20Cox.pdf)
 
-b. [A Brief History of Black Holes](./A%20Brief%20History%20of%20Black%20Holes%20Dr%20Becky%20Smethurst.epub)
+b. [A Brief History of Black Holes](./nonfiction/physics/A%20Brief%20History%20of%20Black%20Holes%20Dr%20Becky%20Smethurst.epub)
 
 </div>
 
@@ -151,7 +169,7 @@ b. [A Brief History of Black Holes](./A%20Brief%20History%20of%20Black%20Holes%2
 
 A. आरोह - अस्मित रेग्मी
 
-B. महारानी - ✍️ चन्द्रप्रकाश बानिँया
+B. महारानी - चन्द्रप्रकाश बानिँया
 
 C. करोडौँ कस्तुरी - अमर न्यौपाने
 

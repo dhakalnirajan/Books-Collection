@@ -313,110 +313,116 @@ H. सेतो धर्ती - अमर न्यौपाने
 28. The Sixth Extinction by Elizabeth Kolbert
 29. Behave: The Biology of Humans at Our Best and Worst by Robert Sapolsky
 30. Why Zebras Don't Get Ulcers by Robert Sapolsky
-31. The Brain That Changes Itself by Norman Doidge
-32. The Brain's Way of Healing by Norman Doidge
-33. The Lives of a Cell by Lewis Thomas
-34. Nudge: Improving Decisions About Health, Wealth, and Happiness by Richard Thaler
-35. Misbehaving: The Making of Behavioral Economics by Richard Thaler
-36. The Winner's Curse by Richard Thaler
-37. The Elephant in the Brain by Kevin Simler and Robin Hanson
-38. Pandora's Lab by Paul A. Offit
-39. Predictably Irrational by Dan Ariely
-40. The Red Queen: Sex and the Evolution of Human Nature by Matt Ridley
-41. This Explains Everything by John Brockman
-42. The Honest Truth About Dishonesty by Dan Ariely
-43. The Hidden Life of Trees by Peter Wohlleben
-44. The Telomere Effect by Elizabeth Blackburn
-45. Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness by Peter Godfrey-Smith
-46. The Body: A Guide for Occupants by Bill Bryson
-47. The Immortal Life of Henrietta Lacks by Rebecca Skloot
-48. Gene Machine: The Race to Decipher the Secrets of the Ribosome by Venki Ramakrishnan
-49. Lifespan: Why We Age—and Why We Don't Have To by David Sinclair
-50. The DaVinci Code by Dan Brown
-51. The End of the World Is Just the Beginning by Yashvardhan Shukla
-52. The End of the Alzheimer's: The First Program to Prevent and Reverse Cognitive Decline by Dale Bredesen
-53. The Mutant Project: Inside the Global Race to Genetically Modify Humans by Eben Kirksey
-54. The Hidden Kingdom of Fungi by Merlin Sheldrake
-55. Hacking Darwin: Genetic Engineering and the Future of Humanity by Jamie Metzl
-56. The Scientific Attitude: Defending Science from Denial, Fraud, and Pseudoscience by Lee McIntyre
-57. First Steps: How Upright Walking Made Us Human by Jeremy DeSilva
-58. Maladies of Empire: How Colonialism, Slavery, and War Transformed Medicine by Jim Downs
-59. Land: How the Hunger for Ownership Shaped the Modern World by Simon Winchester
-60. Game Theory: Understanding the Mathematics of Life by Brian Clegg
-61. Evolution: The Human Story by Alice Roberts
-62. The Human Cosmos: Civilization and the Stars by Jo Marchant
-63. The Science of Fate: Why Your Future Is More Predictable Than You Think by Hannah Critchlow
-64. Evolution: The Human Odyssey by Scientific American
-65. Evolution: The Whole Story by Steve Parker
-66. Flesh Made New: The Unnatural History and Broken Promise of Stem Cells by Carl Zimmer
-67. Bad Science: Quacks, Hacks, and Big Pharma Flacks by Ben Goldacre
-68. Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou
-69. The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics by Roger Penrose
-70. The Joy of Science by Jim Al-Khalili
-71. The Joy of Physics by Arthur W. Wiggins
-72. The Upside of Irrationality by Dan Ariely
-73. The Art of Thinking Clearly by Rolf Dobelli
-74. The Upside of Uncertainty: A Guide to Finding Possibility in the Unknown by Nathan Furr
-75. Gravitational Waves: How Einstein's Spacetime Ripples Reveal the Secrets of the Universe by Brian Clegg
-76. Secrets of the Human Body by Chris van Tulleken
-77. Being Human: How Our Biology Shaped Our Society by Lewis Dartnell
-78. The Origins of Everything in 100 Pages (More or Less) by David Bercovici
-79. The Origins of Almost Everything: Everything You Need to Know About the World in Bite-Sized Chunks by Graham Lawton
-80. Unthinkable: An Extraordinary Journey Through the World's Strangest Brains by Helen Thomson
-81. Transcendence: How Humans Evolved through Fire, Language, Beauty, and Time by Gaia Vince
-82. The Human Instinct: How We Evolved to Have Reason, Consciousness, and Free Will by Kenneth R. Miller
-83. Think Again: The Power of Knowing What You Don't Know by Adam Grant
-84. The World According to Physics by Jim Al-Khalili
-85. The Discoveries: Great Breakthroughs in 20th-Century Science, Including the Original Papers by Alan Lightman
-86. The Tangled Tree: A Radical New History of Life by David Quammen
-87. How To Clone A Mammoth: The Science of De-Extinction by Beth Shapiro
-88. Before The Backbone: Views on the Origin of the Vertebrates by Henry Gee
-89. Why People Believe Weird Things: Pseudoscience, Superstition, and Other Confusions of Our Time by Michael Shermer
-90. Metazoa: Animal Life and the Birth of the Mind by Peter Godfrey-Smith
-91. Life As We Made It: How 50,000 Years of Human Innovation Refined and Redefined Nature by Beth Shapiro
-92. Life's Edge: The Search for What It Means to Be Alive by Carl Zimmer
-93. Harry Potter and The Methods of Rationality by Eliezer Yudkowsky
-94. A Story of Us: A New Look at Human Evolution by Lesley Newson
-95. Life as No One Knows It: The Physics of Life's Emergence by Sara Imari Walker
-96. From Matter to Life: Information and Causality by Sara Imari Walker et. al.
-97. Ultimate Physics: From Quarks and Gluons to Gravitons and Higgs Bosons by Scientific American
-98. What Evolution Is By Ernst Mayr
-99. Know This: Today's Most Interesting and Important Scientific Ideas, Discoveries, and Developments by John Brockman
-100. Power, Sex and Suicide: Mitochondria and the Meaning of Life
-101. Just Babies: The Origins of Good and Evil by Paul Bloom
-102. Friendship: The Evolution, Biology and Extraordinary Power of Life's Fundamental Bond by Lydia Denworth
-103. Origins by Frank H. T. Rhodes
-104. Falling Felines and Fundamental Physics by Greg Gbur
-105. How to Talk to a Science Denier: Conversations with Flat Earthers, Climate Deniers, and Others Who Defy Reason by Lee McIntyre
-106. The Art of Seduction by Robert Greene
-107. The Art of War by Sun Tzu
-108. Higgs: The Invention and Discovery of the 'God Particle' by Jim Baggott
-109. We Should All Be Feminists by Chimamanda Ngozi Adichie
-110. The Left Brain Speaks and the Right Brain Laughs by Ransom Stephens
-111. A (Very) Short History of Life On Earth: 4.6 Billion Years in 12 Chapters by Henry Gee
-112. Tribe by Sebastian Junger
-113. The Mysterious World of the Human Genome by Frank Ryan
-114. The Pattern Seekers: How Autism Drives Human Invention by Simon Baron-Cohen
-115. Range: How Generalists Triumph in a Specialized World by David Epstein
-116. Out of the Shadow of a Giant by John Gribbin, Mary Gribbin
-117. A Series of Fortunate Events: Chance and the Making of the Planet, Life, and You by Sean B. Carroll
-118. The Second Brain by Michael Gershon
-119. The Reason for Flowers: Their History, Culture, Biology, and How They Change Our Lives by Stephen Buchmann
-120. Becoming Human: A Theory of Ontogeny by Michael Tomasello
-121. Plato and a Platypus Walk into a Bar: Understanding Philosophy Through Jokes by Thomas Cathcart, Daniel Klein
-122. The Secret Life of Science: How It Really Works and Why It Matters by Jeremy J. Baumberg
-123. Third Thoughts by Steven Weinberg
-124. Inventing Ourselves: The Secret Life of the Teenage Brain by Sarah-Jayne Blakemore
-125. Monkeys, Myths, and Molecules: Separating Fact from Fiction, and the Science of Everyday Life by Joe Schwarcz
-126. A Brief History of Everyone Who Ever Lived: The Human Story Retold Through Our Genes by Adam Rutherford
-127. A Brief History of Creation: Science and the Search for the Origin of Life by Bill Mesler, H. James Cleaves
-128. The Wolf Within: The Astonishing Evolution of the Wolf into Man's Best Friend by Bryan Sykes
-129. The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz
-130. Civilized To Death: The Price of Progress by Christopher Ryan
-131. In Pursuit of the Unknown: 17 Equations That Changed the World by Ian Stewart
-132. The Black Hole War by Leonard Susskind
-133. The Untouchables by Eliot Ness
-134. Sophie's World by Jostein Gaarder
-135. दूर आसमान में by Neeraj Pandey
+31. Determined:A Science of Life Without Free Will by Robert Sapolsky
+32. A Primate's Memoir by Robert Sapolsky
+33. The Trouble with Testosterone by Robert Sapolsky
+34. Biology and Human Behavior: The Neurological Origins of Individuality by Robert Sapolsky
+35. Stress and Your Body by Robert Sapolsky
+36. Stress, the Aging Brain, and the Mechanisms of Neuron Death by Robert Sapolsky
+37. The Brain That Changes Itself by Norman Doidge
+38. The Brain's Way of Healing by Norman Doidge
+39. The Lives of a Cell by Lewis Thomas
+40. Nudge: Improving Decisions About Health, Wealth, and Happiness by Richard Thaler
+42. Misbehaving: The Making of Behavioral Economics by Richard Thaler
+43. The Winner's Curse by Richard Thaler
+44. The Elephant in the Brain by Kevin Simler and Robin Hanson
+45. Pandora's Lab by Paul A. Offit
+46. Predictably Irrational by Dan Ariely
+47. The Red Queen: Sex and the Evolution of Human Nature by Matt Ridley
+48. This Explains Everything by John Brockman
+49. The Honest Truth About Dishonesty by Dan Ariely
+50. The Hidden Life of Trees by Peter Wohlleben
+51. The Telomere Effect by Elizabeth Blackburn
+52. Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness by Peter Godfrey-Smith
+53. The Body: A Guide for Occupants by Bill Bryson
+54. The Immortal Life of Henrietta Lacks by Rebecca Skloot
+55. Gene Machine: The Race to Decipher the Secrets of the Ribosome by Venki Ramakrishnan
+56. Lifespan: Why We Age—and Why We Don't Have To by David Sinclair
+57. The DaVinci Code by Dan Brown
+58. The End of the World Is Just the Beginning by Yashvardhan Shukla
+59. The End of the Alzheimer's: The First Program to Prevent and Reverse Cognitive Decline by Dale Bredesen
+60. The Mutant Project: Inside the Global Race to Genetically Modify Humans by Eben Kirksey
+61. The Hidden Kingdom of Fungi by Merlin Sheldrake
+62. Hacking Darwin: Genetic Engineering and the Future of Humanity by Jamie Metzl
+63. The Scientific Attitude: Defending Science from Denial, Fraud, and Pseudoscience by Lee McIntyre
+64. First Steps: How Upright Walking Made Us Human by Jeremy DeSilva
+65. Maladies of Empire: How Colonialism, Slavery, and War Transformed Medicine by Jim Downs
+66. Land: How the Hunger for Ownership Shaped the Modern World by Simon Winchester
+67. Game Theory: Understanding the Mathematics of Life by Brian Clegg
+68. Evolution: The Human Story by Alice Roberts
+69. The Human Cosmos: Civilization and the Stars by Jo Marchant
+70. The Science of Fate: Why Your Future Is More Predictable Than You Think by Hannah Critchlow
+71. Evolution: The Human Odyssey by Scientific American
+72. Evolution: The Whole Story by Steve Parker
+73. Flesh Made New: The Unnatural History and Broken Promise of Stem Cells by Carl Zimmer
+74. Bad Science: Quacks, Hacks, and Big Pharma Flacks by Ben Goldacre
+75. Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou
+76. The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics by Roger Penrose
+77. The Joy of Science by Jim Al-Khalili
+78. The Joy of Physics by Arthur W. Wiggins
+79. The Upside of Irrationality by Dan Ariely
+80. The Art of Thinking Clearly by Rolf Dobelli
+81. The Upside of Uncertainty: A Guide to Finding Possibility in the Unknown by Nathan Furr
+82. Gravitational Waves: How Einstein's Spacetime Ripples Reveal the Secrets of the Universe by Brian Clegg
+83. Secrets of the Human Body by Chris van Tulleken
+84. Being Human: How Our Biology Shaped Our Society by Lewis Dartnell
+85. The Origins of Everything in 100 Pages (More or Less) by David Bercovici
+86. The Origins of Almost Everything: Everything You Need to Know About the World in Bite-Sized Chunks by Graham Lawton
+87. Unthinkable: An Extraordinary Journey Through the World's Strangest Brains by Helen Thomson
+88. Transcendence: How Humans Evolved through Fire, Language, Beauty, and Time by Gaia Vince
+89. The Human Instinct: How We Evolved to Have Reason, Consciousness, and Free Will by Kenneth R. Miller
+90. Think Again: The Power of Knowing What You Don't Know by Adam Grant
+91. The World According to Physics by Jim Al-Khalili
+92. The Discoveries: Great Breakthroughs in 20th-Century Science, Including the Original Papers by Alan Lightman
+93. The Tangled Tree: A Radical New History of Life by David Quammen
+94. How To Clone A Mammoth: The Science of De-Extinction by Beth Shapiro
+95. Before The Backbone: Views on the Origin of the Vertebrates by Henry Gee
+96. Why People Believe Weird Things: Pseudoscience, Superstition, and Other Confusions of Our Time by Michael Shermer
+97. Metazoa: Animal Life and the Birth of the Mind by Peter Godfrey-Smith
+98. Life As We Made It: How 50,000 Years of Human Innovation Refined and Redefined Nature by Beth Shapiro
+99. Life's Edge: The Search for What It Means to Be Alive by Carl Zimmer
+100. Harry Potter and The Methods of Rationality by Eliezer Yudkowsky
+101. A Story of Us: A New Look at Human Evolution by Lesley Newson
+102. Life as No One Knows It: The Physics of Life's Emergence by Sara Imari Walker
+103. From Matter to Life: Information and Causality by Sara Imari Walker et. al.
+104. Ultimate Physics: From Quarks and Gluons to Gravitons and Higgs Bosons by Scientific American
+105. What Evolution Is By Ernst Mayr
+106. Know This: Today's Most Interesting and Important Scientific Ideas, Discoveries, and Developments by John Brockman
+107. Power, Sex and Suicide: Mitochondria and the Meaning of Life
+108. Just Babies: The Origins of Good and Evil by Paul Bloom
+109. Friendship: The Evolution, Biology and Extraordinary Power of Life's Fundamental Bond by Lydia Denworth
+110. Origins by Frank H. T. Rhodes
+111. Falling Felines and Fundamental Physics by Greg Gbur
+112. How to Talk to a Science Denier: Conversations with Flat Earthers, Climate Deniers, and Others Who Defy Reason by Lee McIntyre
+113. The Art of Seduction by Robert Greene
+114. The Art of War by Sun Tzu
+115. Higgs: The Invention and Discovery of the 'God Particle' by Jim Baggott
+116. We Should All Be Feminists by Chimamanda Ngozi Adichie
+117. The Left Brain Speaks and the Right Brain Laughs by Ransom Stephens
+118. A (Very) Short History of Life On Earth: 4.6 Billion Years in 12 Chapters by Henry Gee
+119. Tribe by Sebastian Junger
+120. The Mysterious World of the Human Genome by Frank Ryan
+121. The Pattern Seekers: How Autism Drives Human Invention by Simon Baron-Cohen
+122. Range: How Generalists Triumph in a Specialized World by David Epstein
+123. Out of the Shadow of a Giant by John Gribbin, Mary Gribbin
+124. A Series of Fortunate Events: Chance and the Making of the Planet, Life, and You by Sean B. Carroll
+125. The Second Brain by Michael Gershon
+126. The Reason for Flowers: Their History, Culture, Biology, and How They Change Our Lives by Stephen Buchmann
+127. Becoming Human: A Theory of Ontogeny by Michael Tomasello
+128. Plato and a Platypus Walk into a Bar: Understanding Philosophy Through Jokes by Thomas Cathcart, Daniel Klein
+129. The Secret Life of Science: How It Really Works and Why It Matters by Jeremy J. Baumberg
+130. Third Thoughts by Steven Weinberg
+131. Inventing Ourselves: The Secret Life of the Teenage Brain by Sarah-Jayne Blakemore
+132. Monkeys, Myths, and Molecules: Separating Fact from Fiction, and the Science of Everyday Life by Joe Schwarcz
+133. A Brief History of Everyone Who Ever Lived: The Human Story Retold Through Our Genes by Adam Rutherford
+134. A Brief History of Creation: Science and the Search for the Origin of Life by Bill Mesler, H. James Cleaves
+135. The Wolf Within: The Astonishing Evolution of the Wolf into Man's Best Friend by Bryan Sykes
+136. The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz
+137. Civilized To Death: The Price of Progress by Christopher Ryan
+138. In Pursuit of the Unknown: 17 Equations That Changed the World by Ian Stewart
+139. The Black Hole War by Leonard Susskind
+140. The Untouchables by Eliot Ness
+141. Sophie's World by Jostein Gaarder
+142. दूर आसमान में by Neeraj Pandey
 
 </div>

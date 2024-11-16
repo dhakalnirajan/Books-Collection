@@ -8,9 +8,9 @@ These are the collection of my books I read and my suggestions to others. There 
 
 You can read these books on your mobile phone using [Moon+ Reader Pro App.](./Moon+%20Reader%20Pro%20v8.6%20build%20806004.apk) Click on the link to download the APK file and then install it on your phone. This App doesn't work on iOS devices and PC. If you want to read them on your PC, please install [Freda epub reader](https://apps.microsoft.com/detail/9wzdncrfj43b?hl=en-US&gl=US) from Microsoft Store. It is free and works perfectly.
 
-I have been using ElevenLabs' **11Reader App** available on Play store and App store. Click [here,](https://elevenlabs.io/text-reader) to access the app. This app has been very helpful to me. What you can do here is, get any PDF or epub file (you can download the books from this repository too), and then after you create your account on this app, you can upload the book file and almost within a minute,you can get Audiobook version of the book which you can read and/or listen to at the same time. Interesting thing about this application is you can choose many of the voices including **Richard Feynman** which was recently added in November, 2024.
+I have been using ElevenLabs' **11Reader App** available on Play store and App store. Click [here,](https://elevenlabs.io/text-reader) to access the app. This app has been very helpful to me. What you can do here is, get any PDF or epub file (you can download the books from this repository too), and then after you create your account on this app, you can upload the book file and almost within a minute, you can get Audiobook version of the book which you can read and/or listen to at the same time. Interesting thing about this application is you can choose many of the voices including **Richard Feynman** which was recently added in November, 2024.
 
-Most of the file formats are in `.epub` and `.mobi` and very few in `.pdf`. Therefore, the applications mentioned above are the best to read these books.
+Most of the file formats are in `.epub` and `.mobi` and very few in `.pdf`. 11Reader doesn't support `.mobi` files. Therefore, the applications mentioned above are the best to read these books which they support.
 
 ---
 
@@ -288,7 +288,7 @@ H. सेतो धर्ती - अमर न्यौपाने
 1. The Fabric of Reality by David Deutsch
 2. The Beginning of Infinity by David Deutsch
 3. Factfulness by Hans Rosling
-4. The Emperor of All Maladies by Siddhartha Mukherjee
+4. The Emperor of All Maladies: A Biography of Cancer by Siddhartha Mukherjee
 5. The Laws of Medicine by Siddhartha Mukherjee
 6. Blink: The Power of Thinking Without Thinking by Malcolm Gladwell
 7. Outliers: The Story of Success by Malcolm Gladwell
